@@ -6,15 +6,15 @@
   "id": "did:web:jamesdun2866.github.io",
   "assertionMethod": [
     {
-      "id": "did:web:jamesdun2866.github.io#bfa4ef7baa647ce875f2e35c8a49be3f35ac2000d09fbee8817e956935b319ce",
+      "id": "did:web:jamesdun2866.github.io#6cce0bcc72e612dd4a8c2de6c8f6a5711c60afed6a6957eefee378a4bb04f00d",
       "type": "JsonWebKey2020",
       "controller": "did:web:jamesdun2866.github.io",
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "P-256",
-        "x": "ec0HIvb2z6_pVPYcSNtq4LTp1QaEnf08aTLTchMPMEM=",
-        "y": "mA55dTPiP9vRuHKQjBbVVJgGAFUmZHsX-bdOFTbkcyw=",
-        "kid": "bfa4ef7baa647ce875f2e35c8a49be3f35ac2000d09fbee8817e956935b319ce",
+        "x": "Z4rLgw3C8Lb3MbGTjsbJ8HtBoZSY0u3ylK-gdQjonJ0=",
+        "y": "xsMUkda6eABsksv4arISnvE8IPSGqhTA6HRWAL52ZXM=",
+        "kid": "6cce0bcc72e612dd4a8c2de6c8f6a5711c60afed6a6957eefee378a4bb04f00d",
         "alg": "ES256"
       }
     }
