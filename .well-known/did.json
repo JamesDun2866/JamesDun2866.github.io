@@ -1,0 +1,22 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:jamesdun2866.github.io",
+  "assertionMethod": [
+    {
+      "id": "did:web:jamesdun2866.github.io#bfa4ef7baa647ce875f2e35c8a49be3f35ac2000d09fbee8817e956935b319ce",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:jamesdun2866.github.io",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-256",
+        "x": "ec0HIvb2z6_pVPYcSNtq4LTp1QaEnf08aTLTchMPMEM=",
+        "y": "mA55dTPiP9vRuHKQjBbVVJgGAFUmZHsX-bdOFTbkcyw=",
+        "kid": "bfa4ef7baa647ce875f2e35c8a49be3f35ac2000d09fbee8817e956935b319ce",
+        "alg": "ES256"
+      }
+    }
+  ]
+}
